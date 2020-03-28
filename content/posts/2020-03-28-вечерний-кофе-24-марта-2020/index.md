@@ -27,4 +27,3 @@ hero: images/1585225688929_barsa.jpg
 
 На Нетфликсе вышел сериал "Фрейд", в котором известный психоаналитик нюхает кокаин и помогает раскрывать ужасные преступления, происходящие в Вене. Оценка Imdb: 6,8/10. Трейлер: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CxokinuyHmk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
