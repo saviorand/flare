@@ -1,33 +1,18 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Вечерний Кофе`,
+    name: `Медиа Сион`,
+    siteUrl: `https://elegant-kare-e47fee.netlify.com/`,
+    description: `Главное - под новым углом.
+Самые оригинальные, вдумчивые и полезные аналитические материалы по повестке - поймите, что происходит, не вспотев.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Главное - под новым углом.`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
-        name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
-      },
-      {
-        name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://twitter.com/`,
       },
     ],
   },
