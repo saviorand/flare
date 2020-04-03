@@ -1,12 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Вечерний Кофе`,
-    name: `Медиа Сион`,
-    siteUrl: `https://elegant-kare-e47fee.netlify.com/`,
-    description: `Главное - под новым углом.
-Самые оригинальные, вдумчивые и полезные аналитические материалы по повестке - поймите, что происходит, не вспотев.`,
+    title: `Morning Coffee Blog`,
+    name: `Valentin Erokhin`,
+    siteUrl: `https://some-url.com/`,
+    description: `This is a site description`,
     hero: {
-      heading: `Главное - под новым углом.`,
+      heading: `Great things happen to those who... Umm, nevermind.`,
       maxWidth: 652,
     },
     social: [
